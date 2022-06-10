@@ -98,3 +98,5 @@ const printSummary = (item: Reportable): void => {
 printSummary(oldCivic);
 printSummary(drink);
 ```
+
+![interface reusability example](interface.jpg "interface reusability example")
